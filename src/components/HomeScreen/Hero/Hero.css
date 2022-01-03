@@ -1,0 +1,8 @@
+.backgroundimageHero{
+    background-image: url('/src/components/HomeScreen/Hero/photo1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+  /* background-attachment: fixed; */
+  background-position: center;
+
+}
